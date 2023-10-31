@@ -16,7 +16,7 @@ Key Accomplishments:
 
 Technologies Used:
 
-    Front-end: React.js, HTML, CSS
+    Front-end: React.js, HTML, CSS, Tailwind
     Back-end: Firebase (Realtime Database, Authentication)
     Development Tools: Visual Studio Code, Git
 
